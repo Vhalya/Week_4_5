@@ -1,0 +1,9 @@
+#course1 {
+    background-color: green;
+    margin: 20px; 
+}
+
+body>div.cours {
+    background-color: red;
+    margin: 20px;
+}
