@@ -7,3 +7,7 @@ body>div.cours {
     background-color: red;
     margin: 20px;
 }
+
+body{
+    text-align: center;
+}
